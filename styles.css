@@ -1,0 +1,111 @@
+.outerbox{
+    background: white;
+    height: 390px;
+    width: 260px;
+    margin-left: 90px;
+    margin-top: 150px;
+
+}
+.img1{
+height: 150px;
+width: 250px;
+padding-top: 5px;
+padding-left: 5px;
+border-radius: 1rem;
+}
+.btn1{
+    padding-left: 5px;
+    padding-top: 2px;
+}
+.one{
+    background-color:rgb(33, 75, 227);
+    color: white;
+    width: 100px;
+    border-radius: 2rem;
+    border-color:rgb(33, 75, 227) ;
+    
+}
+.outerbox{
+    border-radius: 1rem;
+}
+.cost1{
+    color: rgb(168, 164, 158);
+    padding-left: 4rem;
+
+}
+.text1{
+    padding-left: 2rem;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.check1{
+    background: rgb(240, 174, 8);
+    margin-top: 10px;
+     margin-left: 65px;
+     width: 9rem;
+     height: 1.4rem;
+     border-radius: 2rem;
+     border-color: rgb(240, 174, 8);
+  
+}
+.outer{
+    background-color: rgb(231, 227, 221);
+    height: 900px;
+    margin-left: 10px;
+}
+.out{
+    display: flex;
+}
+.two{
+    background-color:  rgb(240, 174, 8);
+    color: white;
+    width: 100px;
+    border-radius: 2rem;
+    border-color:  rgb(240, 174, 8);
+    
+}
+.hlink{
+    color:rgb(46, 165, 224);
+    padding-left: 4rem;
+}
+.hlink1{
+    color:rgb(168, 164, 158);
+    padding-left: 4rem;
+}
+.three{
+    color:rgb(168, 164, 158);
+    padding-left: 4rem;
+}
+.cost2{
+    color: rgb(168, 164, 158);
+    padding-left: 2rem;
+}
+
+input.btn2 {
+    color: wheat;
+    background-color: rgb(16, 185, 16);
+    margin-right: 0.9rem;
+    height: 1.2rem;
+    width: 5.8rem;
+    margin-top: 0.6rem;
+    margin-left: 150px;
+    font-family:sans-serif ;
+    border-color: rgb(16, 185, 16);
+}
+.img2{
+    height: 130px;
+    width: 250px;
+    padding-top: 5px;
+    padding-left: 5px;
+    border-radius: 1rem;
+    }
+.add{
+    padding-bottom: 50px;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.add1{
+    padding-bottom: 50px;
+    padding-top: 15px;
+    padding-left: 150px;
+}
