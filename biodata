@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Bio Data</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .bio-container {
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        .hobbies {
+            margin-top: 10px;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="bio-container">
+        <h1>Student Bio Data</h1>
+        <p><strong>Name:</strong> John Doe</p>
+        <p><strong>Age:</strong> 20</p>
+        <p><strong>Major:</strong> Computer Science</p>
+        <div class="hobbies">
+            <p><strong>Hobbies:</strong> Reading, Coding, Playing Guitar</p>
+        </div>
+        <p><strong>Github:</strong> <a href="https://github.com/your-github-username">https://github.com/your-github-username</a></p>
+    </div>
+</body>
+</html>
